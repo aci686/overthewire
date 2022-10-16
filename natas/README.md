@@ -9,3 +9,4 @@ Head over to [Level0](https://overthewire.org/wargames/natas) and start from the
 - Natas 4 [Walkthrough](https://youtu.be/fZutlKcmRUk)
 - Natas 5 [Walkthrough](https://youtu.be/_zqtqNEXVdA)
 - Natas 6 [Walkthrough](https://youtu.be/qsKKUWFY_7s)
+- Natas 7 [Walkthrough](https://youtu.be/GjHjXBbuoLE)
